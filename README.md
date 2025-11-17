@@ -1,6 +1,6 @@
-# Radar Precipitation Nowcasting Pipeline
+# Radar Precipitation Forecasting Pipeline
 
-This repository provides a pipeline for radar precipitation nowcasting of storm initiations using deep learning models. 
+This repository provides a pipeline for radar precipitation forecasting of storm initiations using deep learning models. 
 
 ## Folder Structure
 
